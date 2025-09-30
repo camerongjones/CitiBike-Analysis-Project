@@ -22,7 +22,7 @@ This project analyzes NYC CitiBike data to explore ridership trends by time, sta
 
 ## How to Reproduce
 1. Download raw data from [Lyft CitiBike System Data](https://citibikenyc.com/system-data).  
-2. Run the SQL queries (see `sql_queries.pdf`) to aggregate trips.  
+2. Run the SQL queries (see `CitiBike_SQL.pdf`) to aggregate trips.  
 3. Open the Jupyter Notebook and run the cells to generate plots.  
 
 ---
